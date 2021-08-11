@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Langga1993
+- 👋 Hi, I’m @Ann
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning how to code and to design
 - 💞️ I’m looking to collaborate on GitHub
